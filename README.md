@@ -1,4 +1,4 @@
-# Project Title
+# Blinkit Sales Analysis Dashboard
 
 ### Overview 
 This project presents a comprehensive sales analysis for Blinkit using a Power BI dashboard. The analysis is based on a dataset containing 8,500 records up to the year 2022. Our goal is to provide insights into sales performance, customer satisfaction, and inventory distribution to identify opportunities for optimization.
